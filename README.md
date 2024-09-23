@@ -45,9 +45,6 @@ Welcome to the public repository of my **Portfolio Website**! 🌟 This project 
 - **Backend Folder**: Completely removed due to sensitive API keys and personal information.
 - **Custom Styles**: Some parts of `index.css` have been modified, making the file less structured.
 
-## 📸 Screenshots
-
-*To be added soon...*
 
 ## 🛠️ Technologies Used
 
